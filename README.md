@@ -3,6 +3,6 @@
 ### 因为刚好遇见你 👋
 
 - what I say: PHP && GO && Python
-- waht I use: Docker、kubernets
+- waht I use: Docker、Kubernetes
 - waht I do: Web APP、Machine Learning、Cloud Native
 - what I think: man proposes, god disposes.
