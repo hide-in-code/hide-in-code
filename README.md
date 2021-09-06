@@ -2,4 +2,5 @@
 
 ### 你好！欢迎来到我的领域 👋
 ### I'm a full stack developer
-### labels: php, golang, python, vue.js, docker, kubernetes, Web APP, Machine Learning, Cloud Native
+### labels: 
+`php`, `golang`, `python`, `vue.js`, `docker`, `kubernetes`, `Web APP`, `Machine Learning`, `Cloud Native`
