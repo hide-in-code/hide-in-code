@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hide-in-code&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-in-code&hide=javascript,html,css,makefile,CMake,C" />
 ### 你好！ 👋
 ### To be a full stack engineer
 ###
