@@ -4,4 +4,4 @@
 ### To be a full stack engineer
 ###
 labels: `php`, `golang`, `python`, `vue.js`, `docker`, `kubernetes`, `Web APP`, `Machine Learning`, `Cloud Native`
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-in-code&hide=javascript,html,css,makefile,CMake,C" />
+
